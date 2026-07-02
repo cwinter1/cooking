@@ -236,9 +236,134 @@
 
 ---
 
-## Recipe 2-4: Protein Cooking Options
+## Recipe 2: Lentils & Green Beans Base
 
-See detailed instructions below for each protein paired with the base.
+### Ingredients (10-12 servings)
+
+**For the base:**
+- 500g dried lentils (red or green)
+- 400g green beans, cut into 2-3cm pieces (fresh or frozen)
+- 1 medium yellow onion, diced
+- 3-4 garlic cloves, minced
+- 2 tbsp extra virgin olive oil
+- ~1 liter water
+- 1 tsp sea salt
+
+---
+
+### Equipment Needed
+
+- Medium-large pot (one-pot recipe, 3-4 liter capacity)
+- Cutting board
+- Sharp knife
+- Measuring spoons & cups
+- Wooden spoon for stirring
+- Large flat tray (for cooling)
+- Food scale (for portioning)
+- 10-12 small freezer bags with labels
+- Sharpie or pen for labeling
+
+---
+
+### Step-by-Step Instructions
+
+#### Preparation Phase (10 minutes)
+
+1. **Rinse lentils**
+   - Place lentils in a strainer
+   - Rinse under cold water until water runs clear
+   - Pick out any small stones or debris
+
+2. **Prepare onion and garlic**
+   - Dice onion finely
+   - Mince garlic cloves
+
+3. **Trim green beans**
+   - Wash green beans
+   - Trim ends and cut into 2-3cm pieces
+   - If using frozen, no need to thaw first
+
+#### Cooking Phase (30-35 minutes)
+
+1. **Heat oil and sauté aromatics**
+   - Place pot on stove at **medium heat**
+   - Add 2 tbsp olive oil, let warm 1-2 minutes
+   - Add diced onion, stir 2 minutes
+   - Add minced garlic, stir 1-2 minutes until fragrant
+
+2. **Add lentils and water**
+   - Add rinsed lentils to the pot, stir to coat with oil
+   - Add ~1 liter water
+   - Add 1 tsp sea salt
+   - Stir well
+
+3. **Simmer lentils**
+   - Bring to a boil over medium-high heat (5-6 minutes)
+   - Reduce heat to low-medium, simmer uncovered
+   - Cook 20-25 minutes, stirring occasionally, until lentils are nearly tender
+
+4. **Add green beans**
+   - Stir in green beans during the last 8-10 minutes of simmering
+   - Continue cooking until lentils are fully soft and green beans are tender-crisp
+
+5. **Test for doneness**
+   - Lentils should mash easily between two fingers
+   - Green beans should be tender but still have slight bite
+   - Most water should be absorbed (mixture should be moist, not soupy); if too wet, simmer uncovered a few extra minutes
+
+#### Cooling & Portioning Phase (20 minutes)
+
+1. **Cool to room temperature**
+   - Spread on a large flat tray in a single layer
+   - Let sit at room temperature for 15-20 minutes
+
+2. **Portion using scale**
+   - Tare a freezer bag on the scale
+   - Fill to 200g per bag
+   - Flatten and seal, repeat for 10-12 portions
+
+3. **Label and freeze**
+   - Write date and "Lentils & Green Beans Base — 200g" on each bag
+   - Freeze flat, stack once solid
+   - Store up to 3 months
+
+---
+
+### Nutritional Information (Per 200g serving)
+
+| Nutrient | Amount |
+|----------|--------|
+| Calories | ~150 kcal |
+| Protein | 10-12g |
+| Carbohydrates | 22-24g |
+| Fat | 3-4g |
+| Fiber | 8-9g |
+| Sodium | 280mg |
+
+**When paired with 85-90g protein:**
+- Total calories: 340-380 kcal
+- Total protein: 35-40g
+- Glycemic Index: ~35-40 (low)
+
+---
+
+### Storage Instructions
+
+Same as Recipe 1: refrigerate up to 4-5 days, freeze up to 3 months, reheat via microwave (2-3 min) or stovetop (5-7 min, add a splash of water if dry).
+
+---
+
+### Variations & Substitutions
+
+- **Swap lentils:** Chickpeas (soak/cook longer, ~45 min) or black beans (similar GI)
+- **Swap green beans:** Broccoli florets or spinach (add spinach in the last 2 minutes only)
+- **Add flavor:** Pinch of cumin or smoked paprika while sautéing the onion
+
+---
+
+## Protein Cooking Options
+
+See detailed instructions below for each protein paired with either base (Combo D or Combo E).
 
 ### Salmon Protocol
 
@@ -289,7 +414,7 @@ See detailed instructions below for each protein paired with the base.
 7. **Season & serve**
    - Sprinkle pinch of salt and pepper
    - Optional: squeeze of fresh lemon
-   - Serve immediately with beans & potato base
+   - Serve immediately with base
 
 **Doneness guide:**
 - Undercooked: Pink center, doesn't flake
@@ -402,12 +527,69 @@ See detailed instructions below for each protein paired with the base.
 
 ---
 
+### Turkey Protocol
+
+**Ingredients per portion:**
+- 90-100g frozen turkey breast (diced or whole)
+- 1 tsp olive oil
+- Salt and pepper to taste
+- Optional: soy sauce, garlic powder
+
+**Instructions:**
+
+1. **Thaw protein (5 minutes)**
+   - Warm water, same as fish/salmon/chicken
+
+2. **Dice if necessary**
+   - If using whole breast, cut into 3cm cubes
+   - Aim for 6-8 pieces per portion
+   - Uniform size ensures even cooking
+
+3. **Heat pan (2 minutes)**
+   - Small skillet at **medium-high heat**
+   - Add 1 tsp oil
+   - Wait until oil shimmers
+
+4. **Add turkey (0 minutes)**
+   - Place turkey pieces in hot pan
+   - Arrange in single layer (don't overcrowd)
+   - Should sizzle
+
+5. **Cook (6-8 minutes)**
+   - **Don't stir immediately** — let sit 2 minutes for browning
+   - After 2 minutes, stir and continue cooking
+   - Keep stirring every 1-2 minutes
+   - Pieces should turn golden-brown on outside
+   - Turkey breast is leaner than chicken — watch closely to avoid drying out
+
+6. **Check doneness (variable)**
+   - No pink color inside any piece
+   - Should cut easily with fork
+   - Opaque white/tan color throughout
+   - Total cooking time: 12-15 minutes
+
+7. **Season & serve**
+   - Salt, pepper
+   - Optional: soy sauce for umami
+   - Serve with base
+
+**Doneness guide:**
+- Undercooked: Pink inside, rubbery texture
+- Perfect: White throughout, tender, moist
+- Overcooked: Dry, tough texture (turkey dries out faster than chicken — pull off heat promptly at doneness)
+
+**Temperature check (if using thermometer):**
+- Insert thermometer into thickest piece
+- Should read **74°C (165°F)** minimum for food safety
+
+---
+
 ### Complete Meal Assembly
 
 **Your complete lunch:**
 
-1. Warm 200g beans & sweet potato base (2-3 min microwave or 5-7 min pot)
-2. Cook 85-90g protein (10-15 min depending on type)
+1. Warm 200g base (Combo D or Combo E) (2-3 min microwave or 5-7 min pot)
+2. Cook 85-100g protein (10-15 min depending on type)
 3. Transfer warm base to plate
 4. Top or place cooked protein alongside
 5. Optional garnish: fresh herbs, lemon, hot sauce
@@ -421,10 +603,12 @@ See detailed instructions below for each protein paired with the base.
 
 | Component | Batch Size | Time | Freezes | Shelf Life |
 |-----------|-----------|------|---------|------------|
-| Beans & Potato Base | 2.4 kg (10-12 × 200g) | 90 min | Flat bags | 3 months |
+| Beans & Potato Base (Combo D) | 2.4 kg (10-12 × 200g) | 90 min | Flat bags | 3 months |
+| Lentils & Green Beans Base (Combo E) | ~2.2 kg (10-12 × 200g) | ~45 min | Flat bags | 3 months |
 | Salmon portions | 800-1000g | 5 min (part of cooking) | Individual bags | 3 months |
 | White Fish portions | 800-1000g | 5 min (part of cooking) | Individual bags | 3 months |
 | Chicken portions | 800-1000g | 5 min (part of cooking) | Individual bags | 3 months |
+| Turkey portions | 800-1000g | 5 min (part of cooking) | Individual bags | 3 months |
 
 ---
 
