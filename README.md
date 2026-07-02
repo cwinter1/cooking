@@ -7,7 +7,7 @@ A comprehensive meal prep guide for low-GI, high-protein meals using a modular b
 This repository contains meal prep recipes, shopping lists, and cooking instructions designed for:
 - **Low-GI** carbohydrate management
 - **High protein** intake (35-40g per meal)
-- **Flexible protein** options (salmon, white fish, chicken breast)
+- **Flexible protein** options (salmon, white fish, chicken breast, turkey)
 - **Time-efficient** morning cooking (~15-20 minutes)
 - **Batch-friendly** freezer storage
 
@@ -19,7 +19,7 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 
 **Composition:**
 - 200g white beans + sweet potato base
-- 85-100g frozen protein (choice of salmon, white fish, or chicken breast)
+- 85-100g frozen protein (choice of salmon, white fish, chicken breast, or turkey)
 - Simple seasonings: garlic, onion, olive oil, salt, pepper
 
 **Nutritional Profile (per meal):**
@@ -28,6 +28,26 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 - Carbs: 32-35g (low GI)
 - Fat: 8-10g
 - Fiber: 6-8g
+
+---
+
+### Combo E: Lentils & Green Beans Base
+
+**Composition:**
+- 200g lentils + green beans base
+- 85-100g frozen protein (choice of salmon, white fish, chicken breast, or turkey)
+- Simple seasonings: onion, garlic, olive oil, salt
+
+**Why it's different from Combo D:** fewer ingredients (no sweet potato), one-pot cooking, and a lighter, lower-carb base while staying low-GI.
+
+**Nutritional Profile (per meal, approx.):**
+- Calories: 340-380 kcal
+- Protein: 35-40g
+- Carbs: 24-28g (low GI)
+- Fat: 7-9g
+- Fiber: 8-10g
+
+See `RECIPES.md` for the full recipe card.
 
 ---
 
@@ -43,7 +63,7 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 
 ## 🛒 Quick Shopping List
 
-### Base Ingredients
+### Base Ingredients (Combo D)
 | Item | Qty | Notes |
 |------|-----|-------|
 | White beans (frozen) | 1 kg bag | ~10-12 portions |
@@ -53,12 +73,23 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 | Olive oil | 500 ml | Extra virgin |
 | Sea salt & pepper | as needed | To taste |
 
+### Base Ingredients (Combo E)
+| Item | Qty | Notes |
+|------|-----|-------|
+| Lentils (dried, red or green) | 500 g | ~10-12 portions |
+| Green beans | 400 g | Fresh or frozen |
+| Garlic | 1 bulb | 3-4 cloves |
+| Onion | 1 medium | Yellow preferred |
+| Olive oil | 500 ml | Extra virgin |
+| Sea salt | as needed | To taste |
+
 ### Proteins (Choose at least 2)
 | Protein | Qty | Portions | Notes |
 |---------|-----|----------|-------|
 | Salmon fillets (frozen) | 800-1000g | 10-12 | 80-90g per meal |
 | White fish (frozen) | 800-1000g | 10-12 | Tilapia, sea bass, etc. |
 | Chicken breast (frozen) | 800-1000g | 10-12 | 90-100g per meal |
+| Turkey breast (frozen) | 800-1000g | 10-12 | 90-100g per meal |
 
 ---
 
@@ -86,6 +117,8 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 3. Place each in labeled freezer bag
 4. Freeze flat for easy stacking
 
+> For the Combo E (lentils & green beans) prep steps, see `RECIPES.md`.
+
 ---
 
 ## 🐟🐔 Protein Cooking Guide
@@ -105,37 +138,51 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 - **Cooking:** Thaw 5 min in warm water → diced, pan-fry 12-15 min with 1 tsp oil on medium-high
 - **Doneness:** No pink inside, 74°C internal temperature
 
+### Turkey Breast
+- **Portion:** 90-100g per freezer bag (shrinks similarly to chicken)
+- **Cooking:** Thaw 5 min in warm water → diced, pan-fry 12-15 min with 1 tsp oil on medium-high
+- **Doneness:** No pink inside, 74°C internal temperature
+
 ---
 
 ## ☀️ Morning Cooking Routine (15-20 minutes)
 
 ### Option 1: Salmon + Base
-1. 08:00 – Remove 200g beans base + 85g salmon from freezer
+1. 08:00 – Remove 200g base + 85g salmon from freezer
 2. 08:05 – Heat small pan, add 1 tsp oil
 3. 08:07 – Add salmon (frozen), cook 10-12 min on medium-high
-4. 08:10 – Warm beans base in separate pot or microwave (2-3 min microwave, 5-7 min stovetop)
+4. 08:10 – Warm base in separate pot or microwave (2-3 min microwave, 5-7 min stovetop)
 5. 08:20 – Plate together and serve
 
 ### Option 2: White Fish + Base
-1. 08:00 – Remove 200g beans base + 85g white fish from freezer
+1. 08:00 – Remove 200g base + 85g white fish from freezer
 2. 08:05 – Heat small pan, add 1 tsp oil
 3. 08:07 – Add white fish (frozen), cook 8-10 min on medium heat
-4. 08:10 – Warm beans base
+4. 08:10 – Warm base
 5. 08:18 – Plate together and serve
 
 ### Option 3: Chicken + Base
-1. 08:00 – Remove 200g beans base + 100g chicken from freezer
+1. 08:00 – Remove 200g base + 100g chicken from freezer
 2. 08:05 – Heat small pan, add 1 tsp oil
 3. 08:07 – Add chicken (diced), cook 12-15 min on medium-high
-4. 08:10 – Warm beans base
+4. 08:10 – Warm base
 5. 08:22 – Plate together and serve
+
+### Option 4: Turkey + Base
+1. 08:00 – Remove 200g base + 100g turkey from freezer
+2. 08:05 – Heat small pan, add 1 tsp oil
+3. 08:07 – Add turkey (diced), cook 12-15 min on medium-high
+4. 08:10 – Warm base
+5. 08:22 – Plate together and serve
+
+> "Base" above refers to either Combo D (white beans & sweet potato) or Combo E (lentils & green beans) — both follow the same timing.
 
 ---
 
 ## ❄️ Storage & Tips
 
 ### Freezer Storage
-- **Beans & sweet potato base:** Up to 3 months (sealed bags, no air)
+- **Base (Combo D or E):** Up to 3 months (sealed bags, no air)
 - **Proteins:** 2-3 months (check manufacturer guidelines)
 - Label all bags with date and contents
 
@@ -144,13 +191,14 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 - Freeze proteins in individual portions for maximum flexibility
 - Thaw proteins gently in warm water (5 min) for food safety
 - Cook protein in separate pan from base for better texture control
-- Beans base reheats beautifully with no quality loss
+- Base reheats beautifully with no quality loss
 - Perfect for weekday work lunches (Monday-Friday)
 
 ### Substitutions
 - **Low on sweet potato?** Use 600g potato + 600g white beans (same GI)
 - **Prefer sea bass?** Works identically to tilapia (adjust cooking time ±1 min)
-- **Add umami:** 1 tbsp soy sauce to beans base (optional)
+- **Add umami:** 1 tbsp soy sauce to either base (optional)
+- **Low on green beans?** Broccoli or spinach work well in Combo E (adjust cooking time)
 
 ---
 
@@ -161,11 +209,14 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 |-----------|-----|---------|
 | White beans | 24 | 150g |
 | Sweet potato | 63 | 150g |
+| Lentils | 32 | 150g |
+| Green beans | 15 | 100g |
 | Salmon | N/A | 85g |
 | White fish | N/A | 85g |
 | Chicken breast | N/A | 100g |
+| Turkey breast | N/A | 100g |
 
-**Combined meal GI: ~45-50** (low GI range)
+**Combined meal GI: ~45-50** (low GI range, Combo D); **~35-40** (Combo E)
 
 ---
 
@@ -186,9 +237,9 @@ This repository contains meal prep recipes, shopping lists, and cooking instruct
 
 Want to adapt this system?
 
-1. **Change base:** Swap sweet potato for yam or regular potato (adjust GI)
+1. **Change base:** Swap sweet potato for yam or regular potato (adjust GI), or use the Combo E lentil base for a lighter option
 2. **Change beans:** White beans → chickpeas or lentils (similar GI)
-3. **Change protein:** Add shrimp, turkey, or fish variety
+3. **Change protein:** Add shrimp, or rotate salmon, white fish, chicken breast, turkey
 4. **Seasoning:** Add soy sauce, lemon, herbs to base or proteins
 5. **Portions:** Scale quantities by adjusting base amount (proportions stay same)
 
@@ -212,6 +263,6 @@ Created for low-GI, high-protein meal prep system. All portions calculated for:
 
 ---
 
-**Last Updated:** June 2026
+**Last Updated:** July 2026
 
 **System Status:** ✅ Active & Tested

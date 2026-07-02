@@ -9,10 +9,14 @@ Print this list and take it to the supermarket!
 ## 🥫 Frozen Aisle
 
 ### Frozen Vegetables
-- [ ] **White beans (frozen)** — 1 bag (1 kg)
+- [ ] **White beans (frozen)** — 1 bag (1 kg) *(Combo D)*
   - Location: Frozen vegetable section
   - Brands: Any standard frozen white beans
   - Notes: Exact bag size ~1 kg
+
+- [ ] **Green beans (fresh or frozen)** — 400g *(Combo E)*
+  - Location: Frozen vegetable section or produce aisle
+  - Notes: Pre-cut/trimmed saves prep time
 
 ### Frozen Proteins (Choose at least 2)
 - [ ] **Salmon fillets (frozen)** — 800-1000g (1 package)
@@ -30,25 +34,39 @@ Print this list and take it to the supermarket!
   - Can be whole breasts or diced
   - Avoid pre-breaded or seasoned options
 
+- [ ] **Turkey breast (frozen)** — 800-1000g (1 package)
+  - Location: Frozen meat section
+  - Can be whole breasts or diced
+  - Avoid pre-breaded or seasoned options
+
 ---
 
 ## 🥬 Produce Aisle
 
 ### Fresh Vegetables
-- [ ] **Sweet potato (medium)** — 6-8 pieces (total ~1.2 kg)
+- [ ] **Sweet potato (medium)** — 6-8 pieces (total ~1.2 kg) *(Combo D)*
   - Location: Root vegetable section
   - Should be firm, no soft spots
   - Budget: Usually ₪3-5 per kg
 
-- [ ] **Onion (yellow)** — 1 large
+- [ ] **Onion (yellow)** — 2 (1 large for Combo D, 1 medium for Combo E)
   - Location: Onion/allium section
   - Choose firm onion
-  - Budget: ₪1-2
+  - Budget: ₪1-2 each
 
-- [ ] **Garlic** — 1 bulb (fresh)
+- [ ] **Garlic** — 1-2 bulbs (fresh)
   - Location: Garlic section
   - Choose bulb with tight cloves (not sprouting)
   - Budget: ₪2-4
+
+---
+
+## 🦰 Dry Goods Aisle
+
+- [ ] **Lentils (dried, red or green)** — 500g *(Combo E)*
+  - Location: Legumes/dry goods section
+  - No soaking required
+  - Budget: ₪8-15
 
 ---
 
@@ -81,7 +99,7 @@ Print this list and take it to the supermarket!
 
 ## Estimated Budget
 
-### Base Ingredients Only
+### Base Ingredients — Combo D (White Beans & Sweet Potato)
 | Item | Qty | Est. Cost |
 |------|-----|-----------|
 | White beans | 1 kg | ₪15-20 |
@@ -90,7 +108,18 @@ Print this list and take it to the supermarket!
 | Garlic | 1 bulb | ₪2-3 |
 | Olive oil | 500 ml | ₪25-35 |
 | Sea salt & pepper | as needed | ₪0-10 |
-| **Base Total** | — | **₪51-82** |
+| **Combo D Total** | — | **₪51-82** |
+
+### Base Ingredients — Combo E (Lentils & Green Beans)
+| Item | Qty | Est. Cost |
+|------|-----|-----------|
+| Lentils | 500g | ₪8-15 |
+| Green beans | 400g | ₪8-14 |
+| Onion | 1 medium | ₪1-2 |
+| Garlic | 3-4 cloves | ₪1-2 |
+| Olive oil | (shared with Combo D) | — |
+| Sea salt | as needed | ₪0-5 |
+| **Combo E Total** | — | **₪18-38** |
 
 ### Proteins (Choose 2-3)
 | Protein | Qty | Est. Cost |
@@ -98,10 +127,11 @@ Print this list and take it to the supermarket!
 | Salmon | 800-1000g | ₪60-90 |
 | White fish | 800-1000g | ₪30-50 |
 | Chicken breast | 800-1000g | ₪25-40 |
+| Turkey breast | 800-1000g | ₪30-45 |
 | **Protein Total (2-3)** | — | **₪85-180** |
 
 ### **Grand Total for Full System**
-- **Budget: ₪140-260** (for 10-12 complete meals)
+- **Budget: ₪140-260** (for 10-12 complete meals, one base)
 - **Cost per meal:** ₪12-26 (depending on protein choices)
 - **Cost per week (5 meals):** ₪60-130
 
@@ -112,7 +142,7 @@ Print this list and take it to the supermarket!
 ### Where to Shop
 - **Supermarkets:** Stopmarket, Keshet Teamim, Rami Levi
 - **Fish counters:** Fresh fish departments usually have excellent frozen options
-- **Markets:** Local shuk might have cheaper produce (sweet potato, garlic, onion)
+- **Markets:** Local shuk might have cheaper produce (sweet potato, garlic, onion, green beans)
 
 ### Timing
 - **Plan ahead:** Allow 1 hour for shopping (includes time to find items)
@@ -124,18 +154,24 @@ Print this list and take it to the supermarket!
 |------|-----------|
 | Sweet potato | Firm, no soft spots, good size consistency |
 | Frozen beans | Individual grains visible (not clumped ice) |
+| Lentils | No debris or stones, uniform color |
+| Green beans | Bright green, firm, snap easily |
 | Salmon | Bright pink color, no white ice crystals |
 | White fish | No freezer burn, sealed package |
 | Chicken | Uniform color, no discoloration on edges |
+| Turkey | Uniform color, no discoloration on edges |
 
 ### Substitution Options
 | Original | Substitute | Impact |
 |----------|-----------|--------|
 | White beans | Chickpeas | Same GI, slightly nuttier flavor |
 | Sweet potato | Regular potato | Higher GI (+15), same taste |
+| Lentils | Chickpeas | Similar GI, longer cook time |
+| Green beans | Broccoli or spinach | Similar GI, adjust cooking time |
 | Salmon | Mackerel | Similar GI, stronger flavor |
 | Tilapia | Flounder | Milder flavor, identical cooking |
 | Chicken breast | Ground chicken | Shorter cooking time |
+| Turkey breast | Ground turkey | Shorter cooking time |
 
 ---
 
@@ -161,7 +197,7 @@ These items last weeks/months, so check before shopping:
 
 ### Vegetarian Alternative
 - **Skip:** All proteins
-- **Add:** Double portion of beans + sweet potato base
+- **Add:** Double portion of either base (beans + sweet potato, or lentils + green beans)
 - **Nutritional impact:** Lower protein (15-20g per meal) — add separate protein source
 
 ---
@@ -171,7 +207,7 @@ These items last weeks/months, so check before shopping:
 - [ ] Unpack groceries
 - [ ] Check expiration dates (especially proteins)
 - [ ] Store properly (frozen items in freezer, produce in cool place)
-- [ ] Wash fresh produce (sweet potato, onion, garlic)
+- [ ] Wash fresh produce (sweet potato, onion, garlic, green beans)
 - [ ] Set prep time: Friday 4:00 PM - 5:30 PM
 - [ ] Gather equipment: pot, cutting board, knife, tray, bags, scale
 
@@ -187,7 +223,7 @@ These items last weeks/months, so check before shopping:
 
 ---
 
-**Last Updated:** June 2026
+**Last Updated:** July 2026
 
 **Typical Shop Time:** 45-60 minutes
 
